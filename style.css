@@ -1,0 +1,141 @@
+body {
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.btn-yellow {
+    background: rgb(243, 213, 22);
+    background:rgb(48, 227, 202);
+
+    font-weight: bold;
+    padding: 8px 10px;
+    font-size: 20px;
+    box-shadow: 5px 5px 10px #000000;
+    border-radius: 8px;
+}
+
+.btn-yellow:hover {
+    background: rgb(243, 213, 22);
+    /* background:rgb(48, 227, 202); */
+/* background:rgb(47, 137, 252); */
+    box-shadow: 3px 3px 10px #000000;
+    font-weight: bold;
+    /* color: white; */
+}
+
+.bg-nav {
+    background: rgb(227, 110, 0);
+    background-color: rgb(64, 81, 78);
+    background:rgb(48, 227, 202);
+    /* background: rgb(47, 137, 252); */
+    height: 50px;
+    /* color: white; */
+    
+}
+
+.text-black {
+    color: black !important;
+}
+
+
+
+.border-md {
+    border-width: 2px !important;
+    /*border: solid rgb(242, 119, 4) 2px !important;*/
+}
+
+.vwh-100 {
+    width: 100vw;
+    height: 100vh;
+}
+
+.bg-img {
+     background-image: url("happy_woman.jpg");
+     background-position: center;
+     
+  background-repeat: no-repeat;
+  background-size: cover;
+     
+}
+
+.overlay {
+    background-color: rgb(48, 227, 202);    
+    background-color: rgb(255, 255, 255, 0.5);
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+
+.text-header {
+    font-size: 35px;
+    line-height: 2;
+    color: rgb(243, 213, 22);
+    color: rgb(64, 81, 78);
+    color:rgb(255, 255, 255);
+    background-color: rgba(10, 10, 10,0.3);
+    letter-spacing: 2px;
+}
+
+.text-p {
+    font-size: 25px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+}
+
+#quote1, #quote3 {
+    /* color: rgb(47, 137, 252); */
+    /* color: rgb(48, 227, 202); */
+    color: white;
+}
+
+
+#quote2 {
+    color: rgb(47, 137, 252);
+}
+
+#quote4 {
+ color: rgb(243, 213, 22);
+
+}
+
+.candidate {
+    background-color: rgb(243, 213, 22);
+    background: rgb(23, 206, 182);
+
+    color: white;
+}
+
+.candidate3 {
+    background-color: rgb(47, 137, 252);
+    /* background: rgb(48, 227, 202); */
+}
+
+.ourTeam {
+    background:  rgb(48, 227, 202);
+    background-color: rgb(243, 213, 22);
+    color: white;
+}
+
+.footer {
+ background: rgb(64, 81, 78);
+ background: rgb(48, 227, 202);
+ background: rgb(40, 40, 40);
+    /* background-color: rgb(237, 237, 237); */
+background:rgb(48, 227, 202);
+ color: rgb(48, 227, 202);
+ color: rgb(48, 227, 202);
+ color: black;
+ /* color: rgb(92, 161, 250); */
+ /* color: rgb(40, 40, 40); */
+}
+
+i {
+    font-size: 35px !important;
+}
+
+.bg-white {
+  
+    color: rgb(68, 146, 247);
+    
+    color: black;
+    /* background-color: rgb(243, 213, 22); */
+
+}
