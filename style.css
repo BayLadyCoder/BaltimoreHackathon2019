@@ -51,7 +51,7 @@ body {
 }
 
 .bg-img {
-     background-image: url("/img/happy_woman.jpg");
+     background-image: url("./img/happy_woman.jpg");
      background-position: center;
      
   background-repeat: no-repeat;
