@@ -36,7 +36,9 @@ body {
     color: black !important;
 }
 
-
+.text-darkgrey {
+    color: #40514e;
+}
 
 .border-md {
     border-width: 2px !important;
@@ -89,6 +91,7 @@ body {
 
 #quote2 {
     color: rgb(47, 137, 252);
+    color: #40514e;
 }
 
 #quote4 {
@@ -106,6 +109,12 @@ body {
 .candidate3 {
     background-color: rgb(47, 137, 252);
     /* background: rgb(48, 227, 202); */
+}
+
+.candidate4 {
+ background: rgb(40, 40, 40);
+ background: #40514e;
+
 }
 
 .ourTeam {
